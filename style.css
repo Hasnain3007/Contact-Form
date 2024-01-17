@@ -59,7 +59,7 @@ label:hover {
 
 table {
     width: 300px;
-    margin-left: 50px;
+    margin-left: 48px;
 }
 
 .btn {
@@ -94,9 +94,10 @@ a{
 }
 
 img {
-    margin-top: 20px;
-    width: 40px;
+    margin-top: 15px;
+    width: 35px;
 }
 p{
     color: #979595;
+    font-weight: bold;
 }
