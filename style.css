@@ -70,12 +70,15 @@ table {
     color: #424242;
     background-color: #979595;
     border: none;
+    border-radius: 100px 500px;
+    border-style: dotted;
 }
 
 .btn:hover {
     color: #979595;
     background-color: #424242;
     border: 2px solid white;
+    border-style: dotted;
 }
 
 footer{
